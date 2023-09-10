@@ -23,4 +23,4 @@ tony('Tony',22)
 def hey(*val): # you can add infinite arguements by uding *
     print('a:'+val[0]+' b:'+val[1]+' c:'+val[2])
 
-hey('tony','dad','mom')
+hey('dad','tony','mom')
